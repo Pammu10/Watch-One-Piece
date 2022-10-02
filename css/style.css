@@ -1,0 +1,65 @@
+body {
+    font-family : sans-serif;
+    color : #e6e6e6;
+    background-image : url(../img/backdrop.png)
+}
+
+.heading {
+    width : 1014px;
+    margin-left : 200px;
+    color : #007acc;
+    font-size : 30px;
+}
+
+.story {
+    text-align : justify;
+    font-size : 30px;
+    border-width : 5px;
+    border-color : #007acc;
+    border-style : outset;
+    padding : 30px;
+}
+
+.content {
+    font-size : 30px;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.imag { 
+    height: 900px;
+    width: auto;
+}
+
+p{
+    line-height : 1.35;
+}
+.monkey {
+    font-weight : bolder;
+    font-style : italic;
+}
+.crew {
+    font-weight : bolder;
+    font-style : italic;
+}
+.treasure{
+    font-weight : bolder;
+    font-style : italic;
+}
+a{
+    color : #ff00bf;
+    text-decoration : none;
+}
+a:visited{
+    color : #9900cc;
+}
+a:hover {
+    color : #9900cc;
+}
+a:active{
+    color: #ff00bf;
+}
+
+

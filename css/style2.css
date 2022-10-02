@@ -1,0 +1,45 @@
+body {
+    font-family : sans-serif;
+    color : #e6e6e6;
+    background-image : url(../img/backdrop.png)
+}
+.heading {
+
+    width : 100px;
+    margin-left : 625px;
+    color : #007acc;
+    font-size : 30px;
+
+}
+.media-scroller {
+    display : grid;
+    grid-auto-flow: column;
+
+}
+.img {
+
+    width : 500px;
+    margin-left : 100px;
+    margin-right : 100px;
+}
+
+.story {
+    font-size : 30px;
+    border-width : 5px;
+    border-color : #007acc;
+    border-style : outset;
+    padding : 10px;
+}
+a{
+    color : #ff00bf;
+}
+a:hover {
+    color : #9900cc;
+}
+a:hover {
+    color : #9900cc;
+}
+a:active{
+    color: #ff00bf;
+}
+
