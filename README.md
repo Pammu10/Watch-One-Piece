@@ -2,4 +2,4 @@
 
 Site url 
 
-plswatchonepiece.netlify.app
+https://plswatchonepiece.netlify.app
